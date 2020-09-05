@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhLcSTXxuH8IzBh1884OMySm4mvXq7L6DZb33qSZL4e7rYhEiw2JUJT3DDFV7dCsDLsz8SThc51hpq9XEk4uxw==",
+  "success": true,
+  "projectFilePath": "/Users/mireiafarre/Desktop/Coding/CODEACADEMY/Projects/C#/RoverControlCenter/RoverControlCenter/RoverControlCenter.csproj",
+  "expectedPackageFiles": [
+    "/Users/mireiafarre/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/mireiafarre/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/mireiafarre/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/mireiafarre/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/mireiafarre/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/mireiafarre/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/mireiafarre/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

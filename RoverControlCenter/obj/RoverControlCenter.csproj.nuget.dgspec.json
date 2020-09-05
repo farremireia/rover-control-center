@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mireiafarre/Desktop/Coding/CODEACADEMY/Projects/C#/RoverControlCenter/RoverControlCenter/RoverControlCenter.csproj": {}
+  },
+  "projects": {
+    "/Users/mireiafarre/Desktop/Coding/CODEACADEMY/Projects/C#/RoverControlCenter/RoverControlCenter/RoverControlCenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mireiafarre/Desktop/Coding/CODEACADEMY/Projects/C#/RoverControlCenter/RoverControlCenter/RoverControlCenter.csproj",
+        "projectName": "RoverControlCenter",
+        "projectPath": "/Users/mireiafarre/Desktop/Coding/CODEACADEMY/Projects/C#/RoverControlCenter/RoverControlCenter/RoverControlCenter.csproj",
+        "packagesPath": "/Users/mireiafarre/.nuget/packages/",
+        "outputPath": "/Users/mireiafarre/Desktop/Coding/CODEACADEMY/Projects/C#/RoverControlCenter/RoverControlCenter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mireiafarre/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
